@@ -1,0 +1,47 @@
+{
+  "analyzed_at": "2026-09-23T20:40:06.454476+00:00",
+  "total": 1721,
+  "cves": 1721,
+  "top_vendors": [
+    [
+      "Microsoft",
+      388
+    ],
+    [
+      "Cisco",
+      99
+    ],
+    [
+      "Apple",
+      94
+    ],
+    [
+      "Adobe",
+      81
+    ],
+    [
+      "Google",
+      75
+    ],
+    [
+      "Oracle",
+      46
+    ],
+    [
+      "Apache",
+      40
+    ],
+    [
+      "Ivanti",
+      35
+    ],
+    [
+      "Linux",
+      31
+    ],
+    [
+      "Fortinet",
+      30
+    ]
+  ]
+}
